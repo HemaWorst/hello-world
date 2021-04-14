@@ -1,12 +1,1 @@
-# hello-world
-word
-
-a
-
-
-b
-
-
-
-
-c
+import tkinter
